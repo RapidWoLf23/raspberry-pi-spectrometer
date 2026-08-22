@@ -13,7 +13,7 @@ The system captures a dispersed light spectrum, converts camera position into wa
 - Visible-light color classification
 - CSV spectrum export
 - Graphical interface built with Tkinter
-- 
+
 ## Project Overview
 
 ### Hardware
