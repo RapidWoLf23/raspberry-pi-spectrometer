@@ -4,6 +4,16 @@ A low-cost optical spectrometer built with a Raspberry Pi, camera, diffraction g
 
 The system captures a dispersed light spectrum, converts camera position into wavelength, calculates frequency, classifies visible colors, and exports the measured spectrum as CSV.
 
+## Features
+
+- Real-time spectrum capture using a Raspberry Pi camera
+- Wavelength calibration using reference wavelengths
+- Relative intensity analysis
+- Frequency calculation in THz
+- Visible-light color classification
+- CSV spectrum export
+- Graphical interface built with Tkinter
+- 
 ## Project Overview
 
 ### Hardware
