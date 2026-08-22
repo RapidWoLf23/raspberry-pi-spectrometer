@@ -196,4 +196,4 @@ This is a low-cost educational spectrometer rather than a laboratory-grade instr
 
 ## License
 
-MIT License
+This project is licensed under the MIT License.
